@@ -25,7 +25,7 @@ Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson cur
 
 ## Announcement - New Curriculum on Generative AI was just released!
 
-We just released a 12 lesson curriculum on generative AI. Come learn things like:
+We just released a 12 lesson curriculum on generative Ai. Come learn things like:
 
 - prompting and prompt engineering
 - text and image app generation
