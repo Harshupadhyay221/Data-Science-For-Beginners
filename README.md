@@ -140,7 +140,7 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 
 > Note, notebooks will not be rendered via Docsify, so when you need to run a notebook, do that separately in VS Code running a Python kernel.
 
-## Help Wanted!
+## Help Wanted
 
 If you would like to translate all or part of the curriculum, please follow our [Translations](TRANSLATIONS.md) guide.
 
